@@ -25,7 +25,7 @@ asciidocとは [blue]#軽量マークアップ言語# です
 
 詳しくは<<can_asciidoc,asciidocでできること>>を参照 +
 pdfは link:output.pdf[こちら] +
-オラオラ
+オラオラだーーーー
 
 
 [[can_asciidoc]]
