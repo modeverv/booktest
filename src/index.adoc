@@ -6,7 +6,7 @@
 :sectnums:
 :sectnumlevels: 4
 :sectlinks:
-:imagesdir: ../docs/images
+:imagesdir: images
 :icons: font
 :source-highlighter: coderay
 :example-caption: 例
@@ -24,6 +24,7 @@
 asciidocとは [blue]#軽量マークアップ言語# です
 
 詳しくは<<can_asciidoc,asciidocでできること>>を参照
+pdfは link:output.pdf[こちら, target="_blank"] 
 
 [[can_asciidoc]]
 == asciidocでできること
