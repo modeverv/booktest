@@ -12,7 +12,7 @@ cd <project_root>
 ./build_sh
 ```
 
-## どんどんコミット/push
+## どんどんコミット
 
 ```bash
 cd <project_root>
